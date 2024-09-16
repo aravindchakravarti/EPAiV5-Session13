@@ -3,7 +3,7 @@
 ### Submission Details:
 Name: Aravind D. Chakravarti
 
-Email: aravinddcsadguru<at>gmail<dot>com
+Email: aravinddcsadguru@gmail.com
 
 
 # About Context Managers in Python
